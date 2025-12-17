@@ -1,0 +1,1 @@
+import{Fa as o,Ta as r,Ua as n,_a as a}from"./chunk-FW6YJ3JZ.js";var s=class e{static \u0275fac=function(t){return new(t||e)};static \u0275cmp=o({type:e,selectors:[["app-vrtour"]],decls:2,vars:0,template:function(t,p){t&1&&(r(0,"p"),a(1,"vrtour works!"),n())},encapsulation:2})};export{s as Vrtour};

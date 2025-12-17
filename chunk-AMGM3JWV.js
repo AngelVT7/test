@@ -1,0 +1,1 @@
+import{Fa as t,Ta as n,Ua as a,_a as s}from"./chunk-FW6YJ3JZ.js";var d=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-downloads"]],decls:2,vars:0,template:function(e,i){e&1&&(n(0,"p"),s(1,"downloads works!"),a())},encapsulation:2})};export{d as Downloads};

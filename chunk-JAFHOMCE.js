@@ -1,0 +1,1 @@
+import{Fa as t,Ta as i,Ua as r,_a as o}from"./chunk-FW6YJ3JZ.js";var a=class s{static \u0275fac=function(e){return new(e||s)};static \u0275cmp=t({type:s,selectors:[["app-distributors-sales-rep"]],decls:2,vars:0,template:function(e,n){e&1&&(i(0,"p"),o(1,"distributors-sales-rep works!"),r())},encapsulation:2})};export{a as DistributorsSalesRep};

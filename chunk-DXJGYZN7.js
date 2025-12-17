@@ -1,0 +1,1 @@
+import{Fa as c,Ta as t,Ua as n,_a as a}from"./chunk-FW6YJ3JZ.js";var s=class i{static \u0275fac=function(e){return new(e||i)};static \u0275cmp=c({type:i,selectors:[["app-technical-especifications"]],decls:2,vars:0,template:function(e,p){e&1&&(t(0,"p"),a(1,"technical-especifications works!"),n())},encapsulation:2})};export{s as TechnicalEspecifications};

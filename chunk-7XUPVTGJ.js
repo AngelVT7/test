@@ -1,0 +1,1 @@
+import{Fa as t,Ta as s,Ua as n,_a as r}from"./chunk-FW6YJ3JZ.js";var a=class o{static \u0275fac=function(e){return new(e||o)};static \u0275cmp=t({type:o,selectors:[["app-colors"]],decls:2,vars:0,template:function(e,c){e&1&&(s(0,"p"),r(1,"colors works!"),n())},encapsulation:2})};export{a as Colors};
